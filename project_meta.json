@@ -1,10 +1,17 @@
 {
-  "seq": 48,
   "title": "Secure Email and Document Records Management for a Not-for-Profit",
-  "slug": "secure-email-and-document-records-management-for-a-not",
+  "old_slug": "secure-email-and-document-records-management-for-a-not",
+  "slug": "nfp-secure-records-management",
   "folder": "Secure_Email_And_Document_Records_Management_For",
   "kind": "records",
-  "body_words": 239,
+  "body_words": 313,
+  "source": "SCI700",
   "project_id": "Project 30",
-  "source": "SCI700"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Strong portfolio narrative; synthetic baseline is fine for public"
+    ]
+  }
 }
